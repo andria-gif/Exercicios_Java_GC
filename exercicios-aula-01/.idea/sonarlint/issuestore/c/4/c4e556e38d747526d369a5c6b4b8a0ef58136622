@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+Y
+java:S1854
+"<Remove this useless assignment to local variable "resposta".(¶Ä·8‡ñÀª1
+O
+java:S1481"-Remove this unused "contador" local variable.(¸¼¾ÿøÿÿÿÿ8ŠñÀª1
+G	java:S106	"+Replace this use of System.out by a logger.(àºÉú8‹ñÀª1
+J
+java:S1481
+"-Remove this unused "resposta" local variable.(¶Ä·8‹ñÀª1
