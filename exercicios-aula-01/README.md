@@ -1,6 +1,5 @@
 # Exercicios da primeira aula
 
--- Explicar o conteúdo que tive na primeira aula, por exemplo:
 
 Na primeira aula tivemos o primeiro contato com a linguagem Java e tipos primitivos e
 ## Exercícios
