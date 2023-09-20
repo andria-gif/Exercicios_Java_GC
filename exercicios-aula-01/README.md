@@ -1,7 +1,7 @@
 # Exercicios da primeira aula
 
 
-Na primeira aula tivemos o primeiro contato com a linguagem Java e tipos primitivos e
+Na primeira aula tivemos o primeiro contato com a linguagem Java e tipos primitivos.
 ## Exercícios
 
 -- Explicar como organizou esse projeto para solucionar esses exercícios:
