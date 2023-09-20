@@ -2,8 +2,7 @@
 
 -- Explicar o conteúdo que tive na primeira aula, por exemplo:
 
-"Na primeira aula tivemos o primeiro contato com a linguagem Java e tipos primitivos e blábláblá"
-
+Na primeira aula tivemos o primeiro contato com a linguagem Java e tipos primitivos e
 ## Exercícios
 
 -- Explicar como organizou esse projeto para solucionar esses exercícios:
