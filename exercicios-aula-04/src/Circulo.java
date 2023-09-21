@@ -5,7 +5,7 @@ public class Circulo extends FormaGeometrica{
        this.raio = raio;
     }
     @Override
-    public void calcularArea(double raio) {
+    public void calcularArea() {
         double area = (this.raio * this.raio) * Math.PI;
         System.out.println("O valor da area do circulo é: "+area);
     }
