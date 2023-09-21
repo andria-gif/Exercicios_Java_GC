@@ -1,8 +1,6 @@
 # Exercicios de Java: Orientação a Objetos
 
 
-### Não se esqueçam de salvarem esses códigos no repositório que criaram na aula 01.
-
 ### Exercício 01: Conta Bancária
 
 Crie uma classe `ContaBancaria` com os atributos:
