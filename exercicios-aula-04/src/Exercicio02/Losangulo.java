@@ -1,4 +1,8 @@
-public abstract class Losangulo extends FormaGeometrica{
+package Exercicio02;
+
+import Exercicio02.FormaGeometrica;
+
+public class Losangulo extends FormaGeometrica {
  public double diagonalMaior;
  public double diagonalMenor;
 
@@ -7,9 +11,7 @@ public abstract class Losangulo extends FormaGeometrica{
      this.diagonalMenor = diagonalMaior;
  }
     @Override
-    public void calcularArea() {
-     double area = (diagonalMaior * diagonalMenor)/2;
-
-        System.out.println("O valor da area do lo sangulo é: "+area);
+    public double calcularArea() {
+     return (diagonalMaior * diagonalMenor)/2;
     }
 }

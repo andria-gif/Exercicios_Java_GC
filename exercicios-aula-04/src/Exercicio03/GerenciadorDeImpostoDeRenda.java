@@ -1,7 +1,9 @@
+package Exercicio03;
+
 public class GerenciadorDeImpostoDeRenda {
     private double totalTributos;
 
-    public void adicionar(Tributavel t) {
+    public void adicionar(ContaCorrente t) {
         this.totalTributos += t.calcularTributos();
     }
 

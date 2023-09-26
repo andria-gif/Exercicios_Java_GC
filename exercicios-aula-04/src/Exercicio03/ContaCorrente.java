@@ -1,4 +1,6 @@
-public class ContaCorrente extends Conta implements Tributavel{
+package Exercicio03;
+
+public class ContaCorrente extends Conta {
 
     @Override
     public double calcularTributos() {

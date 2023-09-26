@@ -1,7 +1,7 @@
 # Exercicios de Java: Orientação a Objetos
 
 
-### Exercício 01: Conta Bancária
+### Exercício 01: Exercicio03.Conta Bancária
 
 Crie uma classe `ContaBancaria` com os atributos:
 
@@ -47,7 +47,7 @@ Implemente os seguintes métodos na classe:
     
 ### Exercício 2: Círculo
 
-Crie uma classe chamada `Circulo` com os seguintes atributos:
+Crie uma classe chamada `Exercicio02.Circulo` com os seguintes atributos:
 
 - `raio` (representando o raio do círculo)
 
@@ -57,7 +57,7 @@ Implemente os seguintes métodos na classe:
 
 2. `calcularCircunferencia()`: Este método deve calcular a circunferência do círculo com base no raio e retornar o resultado.
 
-Crie objetos da classe `Circulo` e utilize os métodos para calcular e exibir os resultados.
+Crie objetos da classe `Exercicio02.Circulo` e utilize os métodos para calcular e exibir os resultados.
 
 #### Tarefas adicionais:
 
