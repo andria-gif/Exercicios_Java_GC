@@ -1,5 +1,7 @@
 # Exerciicos Java Orientação a Objetos 
-Nessa aula além de colocar em pratica e aprofundar os conhecimentos adquiridos, conheci o  LinkedList.
+Nessa aula além de colocar em prática e aprofundar os conhecimentos adquiridos, conheci o  LinkedList.
+
+LinkedLista em poucas palavras consiste em um modelador de lista encadeada. Muito usada para a implementação de pilhas, filas. Todos os objetos são interligados. (Usei como exemplo para entender uma corda cheia de nós).
 
 ### Exercício 1: Uso de Array
 -Descrição: Crie um programa Java que peça ao usuário para inserir 5 números inteiros e armazene-os em um array. Em seguida, calcule e exiba a soma e a média dos números inseridos.
