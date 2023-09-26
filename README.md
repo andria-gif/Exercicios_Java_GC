@@ -13,7 +13,7 @@ Nesta nova etapa, estamos imersos em um ciclo de três meses de aulas presenciai
 --Este é o cronograma inicial planejado pelos instrutores:
 
 | Data|	Hora|	Objetivo
----------------------
+|---| |---||---|
 | 30/08/2023  |	14h00 - 17h	| Boas-vindas trilha
 | 31/08/2023	| 14h00 - 17h	| Aula zero
 | 05/09/2023	| 14h00 - 17h |	Introdução no Mac + config. do ambiente + git/github
