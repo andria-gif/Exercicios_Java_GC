@@ -6,7 +6,6 @@ LinkedLista em poucas palavras consiste em um modelador de lista encadeada. Muit
 ### Exercício 1: Uso de Array
 -Descrição: Crie um programa Java que peça ao usuário para inserir 5 números inteiros e armazene-os em um array. Em seguida, calcule e exiba a soma e a média dos números inseridos.
 
---Exemplinho de algoritmo
 
 ### Exercício 2: Uso de Array
 - Descrição: Crie um programa Java que gere automaticamente um array de 10 números inteiros aleatórios entre 1 e 100. Em seguida, peça ao usuário para inserir um número e verifique se esse número está presente no array. Exiba uma mensagem indicando se o número foi encontrado ou não.
