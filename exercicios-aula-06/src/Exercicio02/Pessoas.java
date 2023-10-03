@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class Pessoas {
     public static void main(String[] args) {
-        HashMap<String, Integer> agenda = new HashMap<>();
+        HashMap<String, Integer> agenda = new HashMap<String,Integer>();
 
         //chave / valor
         agenda.put("João", 20);
@@ -28,9 +28,9 @@ public class Pessoas {
 
             if (pessoasDaterceiraIdade.getValue() >= 60) {
                 System.out.println("Terceira idade: "+nome +","+idade  );
+
             }
         }
-
 
     }
 
