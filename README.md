@@ -1,7 +1,3 @@
-Aqui está uma versão mais interativa e visualmente atraente do README, que pode envolver os leitores de forma mais eficaz:  
-
----
-
 # **🚀 Exercícios Java - Geração Caldeira**
 
 Bem-vindo(a)! Este repositório documenta minha jornada no **Programa Geração Caldeira**, onde estou desenvolvendo habilidades técnicas e ampliando horizontes no mundo da tecnologia. 🌟  
